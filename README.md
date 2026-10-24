@@ -1,6 +1,6 @@
 # Naseq
 
-ابيه موقع
+
 
 This project was built with [Lovable](https://lovable.dev).
 
